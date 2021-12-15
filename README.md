@@ -4,5 +4,5 @@
 <h1>
     <h2 align="center">Demonstração</h2>
 </h1>
-<hr>
+
 <div align="center"><img src="https://media.giphy.com/media/MIc7Q4ugmNVS9MXxxl/giphy.gif" alt="Preview gif"></div>
