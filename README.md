@@ -1,6 +1,5 @@
 
 <h1 align="center">🔗<br>Mascote Android </h1>
-  <a href="https://carlos3274.github.io/Site-android-mascote/">aqui 🔗</a>
 
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
