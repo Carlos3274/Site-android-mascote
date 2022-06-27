@@ -17,7 +17,7 @@
 
 ## 💻 Projeto
 
-Website sobre o mascote android desenvolvido apenas com HTML5 e CSS3. Projeto criado durante curso de desenvolvimento web. Responsivo para quisquer tamanhos de tela!
+Website sobre o mascote android desenvolvido apenas com HTML5 e CSS3. Projeto criado durante curso de desenvolvimento web. Responsivo para quaisquer tamanhos de tela!
 
 ## 🚀 Tecnologias
 
