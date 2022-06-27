@@ -1,5 +1,5 @@
 
-<h1 align="center">🔗<br>Mascote Android </h1>
+<h1 align="center"><br>Mascote Android </h1>
 
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 
 <div align="center"><img src="https://media.giphy.com/media/MIc7Q4ugmNVS9MXxxl/giphy.gif" alt="Preview gif"></div>
 
-<h4 align="center"><a href="https://carlos3274.github.io/Site-android-mascote/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://carlos3274.github.io/Site-android-mascote/">Clique para visitar o projeto 🔗</a></h4>
 
 ## 💻 Projeto
 
